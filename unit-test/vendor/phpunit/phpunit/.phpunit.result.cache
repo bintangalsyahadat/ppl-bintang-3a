@@ -1,0 +1,1 @@
+{"version":2,"defects":{"ValidatorTest::testValidAge":8,"ValidatorTest::testEmptyAgeThrowException":7},"times":{"ValidatorTest::testValidAge":0.004,"ValidatorTest::testEmptyAgeThrowException":0.001,"ValidatorTest::testNegativeAgeThrowsException":0.001}}
